@@ -1,1 +1,1 @@
-
+TCR-pMHC is a Python-based project focused on visualizing and analyzing the interaction between T-cell Receptors (TCR) and peptide-MHC complexes using PyMOL. It helps identify conserved patterns and structural variations across different immune complexes for immunoinformatics research and academic use.
